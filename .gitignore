@@ -21,6 +21,10 @@ local.properties
 .settings/
 .loadpath
 
+#logs
+./thuisbezorgd-miner/logs
+.log
+
 # External tool builders
 .externalToolBuilders/
 
