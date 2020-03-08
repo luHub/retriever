@@ -15,7 +15,6 @@ import types.Restaurant;
 
 /**
  * Transforms document object model to structured data
- * 
  * @author lucio
  */
 public class KPIGenerator {

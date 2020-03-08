@@ -10,7 +10,6 @@
 	<artifactId>thuisbezorgd-miner</artifactId>
 	<name>thuisbezorgd-miner</name>
 	<description>Crafted miner for https://www.thuisbezorgd.nl/</description>
-
 	<dependencies>
 		<dependency>
 			<groupId>org.junit.jupiter</groupId>
@@ -30,12 +29,12 @@
 		<dependency>
 			<groupId>com.fasterxml.jackson.dataformat</groupId>
 			<artifactId>jackson-dataformat-yaml</artifactId>
-			<version>2.9.8</version>
+			<version>2.9.10</version>
 		</dependency>
 		<dependency>
 			<groupId>com.fasterxml.jackson.core</groupId>
 			<artifactId>jackson-databind</artifactId>
-			<version>2.9.8</version>
+			<version>2.9.10</version>
 		</dependency>
 		<dependency>
 			<groupId>org.json</groupId>
